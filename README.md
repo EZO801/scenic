@@ -1,6 +1,7 @@
 # Scenic
 
 ![Scenic Landscape](https://images.thoughtbot.com/announcing-scenic--versioned-database-views-for-rails/MRUcPsxrTGCeWKyE59Zg_landscape.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fscenic.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fscenic?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/thoughtbot/scenic.svg)](https://travis-ci.org/thoughtbot/scenic)
 [![Code Climate](https://codeclimate.com/repos/53c9736269568066a3000c35/badges/85aa9b19f3037252c55d/gpa.svg)](https://codeclimate.com/repos/53c9736269568066a3000c35/feed)
@@ -265,3 +266,7 @@ us][hire] to help build your product.
 
 [community]: https://thoughtbot.com/community?utm_source=github
 [hire]: https://thoughtbot.com/hire-us?utm_source=github
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fscenic.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fscenic?ref=badge_large)
